@@ -1,0 +1,6 @@
+C:/Users/Home/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/inventory_v1.dir
+C:/Users/Home/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/inventory_init.dir
+C:/Users/Home/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/worker.dir
+C:/Users/Home/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/observer.dir
+C:/Users/Home/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Home/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

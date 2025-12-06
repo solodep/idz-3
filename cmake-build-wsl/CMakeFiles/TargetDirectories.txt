@@ -1,0 +1,6 @@
+/mnt/c/Users/Home/CLionProjects/untitled2/cmake-build-wsl/CMakeFiles/inventory_v1.dir
+/mnt/c/Users/Home/CLionProjects/untitled2/cmake-build-wsl/CMakeFiles/inventory_init.dir
+/mnt/c/Users/Home/CLionProjects/untitled2/cmake-build-wsl/CMakeFiles/worker.dir
+/mnt/c/Users/Home/CLionProjects/untitled2/cmake-build-wsl/CMakeFiles/observer.dir
+/mnt/c/Users/Home/CLionProjects/untitled2/cmake-build-wsl/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Home/CLionProjects/untitled2/cmake-build-wsl/CMakeFiles/rebuild_cache.dir
